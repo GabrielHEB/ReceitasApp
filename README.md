@@ -73,7 +73,7 @@ $ npm start
 
 ## 🔖 Deploy
 
-Você pode visualizar a aplicação do projeto através [desse link](https://gabrielheb.github.io/ReceitasApp.github.io/).
+Você pode visualizar a aplicação do projeto através [desse link](https://gabrielheb.github.io/ReceitasApp/).
 
 Obs: Esta aplicação foi realizada para um view mobile, para uma melhor experiência, recomenda-se utilizar uma view com dimensões de 320 x 568 (iPhone 5/SE) ou similares. 
 
