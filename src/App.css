@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container-button-filter {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    padding-top: 3.125rem;
+  }
+  
+  .button-filter {
+    background-color: #606c38;
+    border: none;
+    border-radius: 1.25rem;
+    box-shadow: 0.125rem 0.125rem 0.25rem #c5c5c5;
+    color: #fefae0;
+    font-family: Lato , sans-serif;
+    font-size: 1rem;
+    margin: 0.313rem;
+    min-width: 6.25rem;
+    outline: none;
+    padding: 0 0.5rem;
+  }
+  
+  .button-filter:focus {
+    background-color: #6a7a35;
+    border: none;
+    border-radius: 1.25rem;
+    box-shadow: 0.188rem 0.188rem 0.25rem #c5c5c5;
+    color: #fefae0;
+    font-family: Lato , sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    min-width: 6.25rem;
+    outline: none;
+  }
+  
+  .button-general {
+    background-color: #606c38;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0.125rem 0.125rem 0.25rem #c5c5c5;
+    color: #fefae0;
+    font-family: Lato , sans-serif;
+    font-size: 1.375rem;
+    font-weight: 400;
+    margin: 1.875rem;
+    min-height: 3.125rem;
+    min-width: 70vw;
+    outline: none;
+  }
+  
+  .button-general:focus {
+    background-color: #6a7a35;
+    border: none;
+    border-radius: 0.5rem;
+    box-shadow: 0.188rem 0.188rem 0.25rem #c5c5c5;
+    color: #fefae0;
+    font-family: Lato , sans-serif;
+    font-size: 1.375rem;
+    font-weight: 400;
+    margin: 1.875rem;
+    min-height: 3.125rem;
+    min-width: 70vw;
+    outline: none;
+  }
+  
+  .container-buttons {
+    align-items: center;
+    background-color: #fefae0;
+    display: flex;
+    flex-flow: column wrap;
+    height: 90vh;
+    justify-content: flex-start;
+    padding: 1.875rem 0;
+    padding-top: 3.125rem;
+  }
+  
+  .pages {
+    background-color: #fefae0;
+    color: #161616;
+    min-height: 100vh;
+  }
+  
+  .loading {
+    margin: 45vh 45vw;
+  }
+  
+  .header-space {
+    background-color: #fefae0;
+    height: 3.125rem;
+  }
+  
